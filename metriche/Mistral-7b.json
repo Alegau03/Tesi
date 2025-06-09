@@ -1,0 +1,13 @@
+{
+    "test_metrics": {
+        "eval_loss": 0.2601843774318695,
+        "eval_accuracy": 0.8858267716535433,
+        "eval_precision": 0.9163879598662207,
+        "eval_recall": 0.8522550544323484,
+        "eval_f1": 0.8831587429492345,
+        "eval_runtime": 570.3017,
+        "eval_samples_per_second": 2.227,
+        "eval_steps_per_second": 2.227,
+        "epoch": 3.9920756290838315
+    }
+}

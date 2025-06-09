@@ -1,0 +1,4 @@
+models/bert_large_final/model.safetensors filter=lfs diff=lfs merge=lfs -text
+models/DeBERTa/model.safetensors filter=lfs diff=lfs merge=lfs -text
+datasets/A/tokenizzatiDeBERTa/train_tokenized_deberta.pt filter=lfs diff=lfs merge=lfs -text
+datasets/A/tokenizzatiBert/train_tokenized.pt filter=lfs diff=lfs merge=lfs -text
