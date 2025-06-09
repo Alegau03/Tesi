@@ -11,7 +11,7 @@ from tqdm import tqdm # Per mostrare una barra di avanzamento
 
 
 
-API_KEY = "AIzaSyBpZLdqZMHENzwtJEqTqDKK0P4gSkUAJt4" 
+API_KEY = "INSERISCI_LA_TUA_CHIAVE_API_GEMINI"  # Sostituisci con la tua chiave API di Gemini""" 
 if not API_KEY:
     print("Errore: Devi impostare la tua chiave API di Gemini.")
     exit()
